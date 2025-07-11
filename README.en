@@ -1,0 +1,27 @@
+# 👋 Hi, I'm Bojan
+
+I’m a SAP EWM administrator with a passion for warehouse data analysis, automation, and Python scripting.  
+I help optimize inventory and logistics operations by transforming SAP exports into actionable insights.
+
+---
+
+## 🛠️ Tools and Skills
+- **SAP S/4HANA** (EWM, MM)
+- **Python** (pandas, openpyxl, matplotlib)
+- **Excel** (advanced formulas, pivot tables)
+- **Power BI**
+- **Flask (Python Web Framework)**
+
+---
+
+## 📌 Featured Projects
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Inventory Aging Analysis** | Python tool to classify and export aging inventory from SAP MB52/MB51 reports | Python, Excel |
+| **Warehouse KPI Dashboard** | Automated tracking of pick/putaway performance using daily exports | Python, pandas, matplotlib |
+| **CSV-based Search App** | Flask app to search fiscal receipts from Excel database | Flask, pandas |
+
+---
+
+## 📫 Get in touch
+- Email: boyan.bk@icloud.com
